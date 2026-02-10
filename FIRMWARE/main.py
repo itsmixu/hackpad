@@ -29,7 +29,7 @@ keyboard.modules.append(encoder_handler)
 # LEDs
 rgb = RGB(
     pixel_pin=board.D10,
-    num_pixels=6,
+    num_pixels=1,
     rgb_order='GRB'
 )
 keyboard.extensions.append(rgb)
