@@ -1,4 +1,39 @@
-# hackpad
-DIY Macropad for Hack Club's Hackpad challenge thingy!
-<img width="1069" height="805" alt="Näyttökuva 2026-02-11 201110" src="https://github.com/user-attachments/assets/ad3e64e7-2431-4a7f-a8e3-1bedeb8a9336" />
-<img width="1227" height="812" alt="Näyttökuva 2026-02-11 202050" src="https://github.com/user-attachments/assets/dca12424-7a7f-4108-88f0-d7ecf1dc431e" />
+# Mixu's Macropad // Hack Club Hackpad
+My own little macropad for my desk :D 
+It has 2 layers to work with: one for media controls and the other has copy, paste and undo, the knob click changes layers. It runs KMK so it is very easy to change afterwards if/when I want to add more functionality.
+There also is one RGB LED, and I plan to use it as a status LED. The OLED screen will have some animation and maybe some stats about my PC.
+
+## Overview
+- 3 macro buttons with 2 layers
+- Rotary encoder knob
+- 0.96" OLED display
+- 1 status RGB LED
+- XIAO RP2040 + KMK firmware
+
+## Pictures
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ad3e64e7-2431-4a7f-a8e3-1bedeb8a9336" width="500" alt="Entire Hackpad"/>
+<img src="https://github.com/user-attachments/assets/dca12424-7a7f-4108-88f0-d7ecf1dc431e" width="500" alt="Case"/>
+
+The PCB is sandwiched in between the case parts, with nuts on the bottom.
+  
+## PCB
+<img src="https://github.com/user-attachments/assets/3fd9883a-9dd7-45f4-9c05-4a54bf7415f3" width="500" alt="PCB"/>
+<img src="https://github.com/user-attachments/assets/f665a811-07b5-4773-bebb-a5d8fb3f618c" width="500" alt="Schematic"/>
+</p>
+
+
+## BOM
+1x Custom PCB
+
+1x Seeed XIAO RP2040
+
+1x EC11 Rotary Encoder
+
+1x 0.91 inch OLED display
+
+3x MX-switches
+
+4x M3 bolts and nuts
+
+1x 3D-printed case
