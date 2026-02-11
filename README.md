@@ -16,9 +16,12 @@ There also is one RGB LED, and I plan to use it as a status LED. The OLED screen
 <img src="https://github.com/user-attachments/assets/dca12424-7a7f-4108-88f0-d7ecf1dc431e" width="500" alt="Case"/>
 
 The PCB is sandwiched in between the case parts, with nuts on the bottom.
-  
+</p>
+
+
 ## PCB
-<img src="https://github.com/user-attachments/assets/3fd9883a-9dd7-45f4-9c05-4a54bf7415f3" width="500" alt="PCB"/>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/348cb076-7763-4ff5-b1cc-b073d5c01691" width="500" alt="PCB"/>
 <img src="https://github.com/user-attachments/assets/f665a811-07b5-4773-bebb-a5d8fb3f618c" width="500" alt="Schematic"/>
 </p>
 
